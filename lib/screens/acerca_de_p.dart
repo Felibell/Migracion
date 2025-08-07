@@ -5,7 +5,7 @@ class AboutScreen extends StatelessWidget {
   final String agentId = "2021-2296";
   final String motivation = "En cada acción migratoria reside la noble tarea de proteger nuestra patria y,"
   "a la vez, de honrar la dignidad humana. El servicio al país se mide en la integridad con la que custodiamos"
-  "nuestras fronteras y la humanidad con la que recibimos al mundo.";
+  "nuestras fronteras y la humanidad con la que recibimos al mundo...";
 
   @override
   Widget build(BuildContext context) {
